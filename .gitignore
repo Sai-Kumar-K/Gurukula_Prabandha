@@ -17,3 +17,7 @@ build/
 
 # Ignore OS-specific files
 .DS_Store
+
+#Ignore any credentials related files
+githubSSHKeys
+githubSSHKeys.pub
